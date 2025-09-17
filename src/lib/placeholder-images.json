@@ -1,3 +1,20 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    { "id": "s1", "description": "Avatar for Alice Johnson", "imageUrl": "https://picsum.photos/seed/s1/100/100", "imageHint": "woman smiling" },
+    { "id": "s2", "description": "Avatar for Bob Williams", "imageUrl": "https://picsum.photos/seed/s2/100/100", "imageHint": "man glasses" },
+    { "id": "s3", "description": "Avatar for Charlie Brown", "imageUrl": "https://picsum.photos/seed/s3/100/100", "imageHint": "boy smiling" },
+    { "id": "s4", "description": "Avatar for Diana Miller", "imageUrl": "https://picsum.photos/seed/s4/100/100", "imageHint": "woman portrait" },
+    { "id": "s5", "description": "Avatar for Ethan Davis", "imageUrl": "https://picsum.photos/seed/s5/100/100", "imageHint": "man outdoors" },
+    { "id": "s6", "description": "Avatar for Fiona Garcia", "imageUrl": "https://picsum.photos/seed/s6/100/100", "imageHint": "woman happy" },
+    { "id": "s7", "description": "Avatar for George Rodriguez", "imageUrl": "https://picsum.photos/seed/s7/100/100", "imageHint": "man professional" },
+    { "id": "s8", "description": "Avatar for Hannah Martinez", "imageUrl": "https://picsum.photos/seed/s8/100/100", "imageHint": "girl smiling" },
+    { "id": "s9", "description": "Avatar for Ian Hernandez", "imageUrl": "https://picsum.photos/seed/s9/100/100", "imageHint": "boy glasses" },
+    { "id": "s10", "description": "Avatar for Julia Lopez", "imageUrl": "https://picsum.photos/seed/s10/100/100", "imageHint": "woman face" },
+    { "id": "s11", "description": "Avatar for Kevin Gonzalez", "imageUrl": "https://picsum.photos/seed/s11/100/100", "imageHint": "man smiling" },
+    { "id": "s12", "description": "Avatar for Laura Wilson", "imageUrl": "https://picsum.photos/seed/s12/100/100", "imageHint": "woman young" },
+    { "id": "c1", "description": "Cover for Algebra 1 class", "imageUrl": "https://picsum.photos/seed/c1/600/400", "imageHint": "mathematics blackboard" },
+    { "id": "c2", "description": "Cover for Physics I class", "imageUrl": "https://picsum.photos/seed/c2/600/400", "imageHint": "science laboratory" },
+    { "id": "c3", "description": "Cover for American Literature class", "imageUrl": "https://picsum.photos/seed/c3/600/400", "imageHint": "books library" },
+    { "id": "c4", "description": "Cover for World History class", "imageUrl": "https://picsum.photos/seed/c4/600/400", "imageHint": "history map" }
+  ]
 }
